@@ -5,5 +5,5 @@
 In order to run this project in your machine, please type:
 
 ```
-Here should be all the necessary steps.
+node app.js
 ```
